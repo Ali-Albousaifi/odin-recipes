@@ -24,54 +24,33 @@
 
 ## Available Commands
 
-In the project directory, you can run:
+In the project, we have:
 
-### `npm start" : "react-scripts start"`,
+### The recipe page should have the following content:
 
-The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-### `"npm run build": "react-scripts build"`,
-
-Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
-
-### `"npm run test": "react-scripts test"`,
-
-Launches the test runner in the interactive watch mode.
-
-### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
-
-For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
-
-### `"serve": "node server"`
-
-For running the server file on you can use this command.
-
-### `npm run serve`
+1. An image of the finished dish under the h1 heading that you added earlier. You can find images of the dish on google or the site recipe site we linked to earlier.
+2. Under the image, it should have an appropriately sized “Description” heading followed by a paragraph or two describing the recipe.
+3. Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe.
+4. Under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
 
 ## Built With
 
-- JavaScript
-- Node
-- NPM
-- Webpack
 - HTML
-- CSS
 
 ## Future Updates
 
-- [ ] Reliable Storage
+- [ ] Add Some CSS Code.
 
 ## Author
 
-**Rohit Jain**
+**Ali Albousaifi**
 
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+- [Profile](https://github.com/Ali-Albousaifi "Ali Albousaifi")
+- [Email](mailto:ali@tromail.com?subject=Hi "Hi!")
+- [Website](https://tromail.com "Welcome")
 
 ## 🤝 Support
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and advices are welcome!
 
 Give a ⭐️ if you like this project!
