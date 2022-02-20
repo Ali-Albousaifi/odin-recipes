@@ -6,15 +6,15 @@
 
 - [Lasagna](./recipes/lasagna.html)
 
-- [Stuffed Green Pepper Soup](<Homepage url> "Live View")
+- [Stuffed Green Pepper Soup](./recipes/Pepper_Soup.html)
 
-- [Rigatoni alla Genovese](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
+- [Rigatoni alla Genovese](./recipes/Rigatoni_Genovese.html)
 
-- [Salmon Curry](<API Link> "API")
+- [Salmon Curry](./recipes/Salmon_Curry.html)
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
+![Lasagna](../images/Lasagna.jpg)
 
 ![](/screenshots/2.png)
 
