@@ -14,7 +14,7 @@
 
 ## Screenshots
 
-![Lasagna](../images/Lasagna.jpg)
+![Lasagna](./images/Lasagna.jpg)
 
 ![](/screenshots/2.png)
 
