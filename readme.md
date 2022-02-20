@@ -18,20 +18,22 @@
 
 ![Lasagna](./images/Lasagna.jpg)
 
-![](/screenshots/2.png)
+![](./images/Pepper_Soup.jpg)
 
-![](/screenshots/3.png)
+![](./images/Rigatoni_Genovese.jpg)
 
-## Available Commands
+![](./images/Salmon_Curry.jpg)
+## Our project
 
 In the project, we have:
 
 ### The recipe page should have the following content:
 
-1. An image of the finished dish under the h1 heading that you added earlier. You can find images of the dish on google or the site recipe site we linked to earlier.
-2. Under the image, it should have an appropriately sized “Description” heading followed by a paragraph or two describing the recipe.
-3. Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe.
-4. Under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
+1. In the index.html file, add a link to the recipe page you just created. The text of the link should again be the recipe name.
+2. An image of the finished dish under the h1 heading that you added earlier. You can find images of the dish on google or the site recipe site we linked to earlier.
+3. Under the image, it should have an appropriately sized “Description” heading followed by a paragraph or two describing the recipe.
+4. Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe.
+5. Under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
 
 ## Built With
 
@@ -39,7 +41,7 @@ In the project, we have:
 
 ## Future Updates
 
-- [ ] Add Some CSS Code.
+- [ ] Adding some CSS Code.
 
 ## Author
 
