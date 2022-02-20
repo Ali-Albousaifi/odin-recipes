@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Lasagna](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+- [Lasagna](./recipes/lasagna.html)
 
 - [Stuffed Green Pepper Soup](<Homepage url> "Live View")
 
