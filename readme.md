@@ -1,6 +1,6 @@
-<h1 align="center"><project-name></h1>
+<h1 align="center">RECIPES</h1>
 
-<p align="center"><project-description></p>
+<p align="center">The website will consist of a main index page which will have links to a few recipes. The website won’t look very pretty by the time you’ve finished.</p>
 
 ## Links
 
