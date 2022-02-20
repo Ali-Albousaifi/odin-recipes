@@ -4,13 +4,13 @@
 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+- [Lasagna](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
 
-- [Live](<Homepage url> "Live View")
+- [Stuffed Green Pepper Soup](<Homepage url> "Live View")
 
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
+- [Rigatoni alla Genovese](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
 
-- [API](<API Link> "API")
+- [Salmon Curry](<API Link> "API")
 
 ## Screenshots
 
