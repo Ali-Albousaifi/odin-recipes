@@ -4,6 +4,8 @@
 
 ## Links
 
+- [RECIPES](<https://ali-albousaifi.github.io/odin-recipes/>)
+
 - [Lasagna](./recipes/lasagna.html)
 
 - [Stuffed Green Pepper Soup](./recipes/Pepper_Soup.html)
